@@ -1,0 +1,19 @@
+body 
+{
+    background-color: aqua;
+}
+.title
+{
+  text-align: center;
+  color: crimson;
+}
+#st
+{
+    text-align: center;
+    color: darkred;
+}
+#p1
+{
+    color: crimson;
+    font-size: larger;
+}
